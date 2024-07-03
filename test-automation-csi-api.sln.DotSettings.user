@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=acb24b33_002D92da_002D4977_002Db490_002D707172da87cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetToken" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8A08AF54-3A2F-4357-B384-0DB3F5DB4DD2::net8.0::test_automation_csi_api.Tests.DataConsumerAPITests.GetToken&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e40da497_002D0edf_002D4586_002Dae23_002Df4453f3b9c1d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetExistingImageFromImageRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::8A08AF54-3A2F-4357-B384-0DB3F5DB4DD2::net8.0::test_automation_csi_api.Tests.DataConsumerAPITests.GetExistingImageFromImageRequest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8A08AF54-3A2F-4357-B384-0DB3F5DB4DD2::net8.0::test_automation_csi_api.Tests.DataConsumerAPITests.GetToken&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8A08AF54-3A2F-4357-B384-0DB3F5DB4DD2::net8.0::test_automation_csi_api.Tests.DataConsumerAPITests.GetQueryExistingImageRequest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8A08AF54-3A2F-4357-B384-0DB3F5DB4DD2::net8.0::test_automation_csi_api.Tests.DataConsumerAPITests.CreateNewClientImageRequest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::8A08AF54-3A2F-4357-B384-0DB3F5DB4DD2::net8.0::test_automation_csi_api.Tests.DataConsumerAPITests.GetExistingImageRequest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
